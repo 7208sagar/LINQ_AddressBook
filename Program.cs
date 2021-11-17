@@ -6,7 +6,7 @@ namespace LINQ_AddressBook
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to LINQ AddressBookSystem!");
+            Console.WriteLine("Welcome to LINQ AddressBookSystem !");
         }
     }
 }
